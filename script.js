@@ -30,7 +30,6 @@ async function showPokeDex(id){
         const response = await fetch(APIPOKEMON + id);
         const responseJson = await response.json();
         printPokemonHTML(responseJson);
-        console.log(responseJson);
     } 
     catch (error) {
         alert(`Error al obtener datos del Pokémon para el ID ${id}: ${error.message}`);
