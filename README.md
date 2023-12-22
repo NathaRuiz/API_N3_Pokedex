@@ -17,7 +17,7 @@ For this project we used the technologies requested:
  <img src="https://skillicons.dev/icons?i=html,css,js,)](https://skillicons.dev"/>
 
 ### Result
-<img src="src/assets/img/pokedex.png"/>
+<img src="src/assets/images/pokedex.PNG" alt="pokedex">
 
 ## Installations Steps
 1. [Clone](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) the repository.
