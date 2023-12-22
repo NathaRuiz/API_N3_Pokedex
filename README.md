@@ -12,7 +12,7 @@ This is a project in which an API is consumed that contains Pokemon and displays
 
 ## Process 
 ### Tecnologies
-For this project we used the technologies requested:
+For this project I used the technologies requested:
 
  <img src="https://skillicons.dev/icons?i=html,css,js,)](https://skillicons.dev"/>
 
