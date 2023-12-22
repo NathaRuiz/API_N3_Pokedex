@@ -24,13 +24,8 @@ For this project we used the technologies requested:
 
 2. Open the proyect in Visual Studio Code ( is a source code editor developed by Microsoft for Windows, Linux, macOS and Web).
 
-3. Make sure you have Node.js and npm installed on your machine. Then, run the following command to install the project dependencies: `npm install` 
-- This will install all the dependencies defined in the package.json file, including Jest.
 
-4. Run the tests with Jest: Once the dependencies are installed, you can run the tests using Jest with the following command:` npm test`
-- Jest will run all the tests defined in the project and display the results in the terminal.
-
-5. Enjoy it.
+3. Enjoy it.
 
 ## Author
 created with 💜 by [NathaRuiz](https://github.com/NathaRuiz)
