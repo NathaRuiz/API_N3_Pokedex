@@ -1,6 +1,6 @@
 const APIPOKEMON = "https://pokeapi.co/api/v2/pokemon/";
 
-const pokemon_count = 12;
+const pokemon_count = 150;
 
 const colors = {
   fire: "#FDDFDF",
@@ -73,7 +73,7 @@ function printPokemonHTML(data){
    pokeInfo.appendChild(pokeName);
    pokeInfo.appendChild(pokeType);
 
-   pokemonCard.appendChild(pokeImg);
+   pokemonCard.appendChild(imgContainer);
    pokemonCard.appendChild(pokeInfo);
 
    poke_container.appendChild(pokemonCard);
